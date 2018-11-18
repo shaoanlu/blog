@@ -3,7 +3,7 @@ layout: post
 title: Vehicle Detection with Mask-RCNN and SSD
 date: 2017-11-02 00:00:00 +0300
 description: Using deep learning models to detect vehicles in a video clips.
-img: https://shaoanlu.files.wordpress.com/2017/05/ssd-lane-detection-min.gif?w=450 # Add image post (optional)
+img: ssd-lane-detection-min.gif # Add image post (optional)
 tags: [Deep Learning] # add tag
 type: project
 ---
