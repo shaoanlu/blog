@@ -10,7 +10,7 @@ type: project
 
 ### [Description]
 
-In this project, we use modern deep learning models, [SSD (Single Shot Multibox Detector)](https://arxiv.org/abs/1512.02325) and [Mask-RCNN](https://arxiv.org/abs/1703.06870), to detect vehicles in a video clip.
+In this project, we used modern deep learning models, [SSD (Single Shot Multibox Detector)](https://arxiv.org/abs/1512.02325) and [Mask-RCNN](https://arxiv.org/abs/1703.06870), to detect vehicles in a video clip.
 
 Furthermore, we explored:
   1) The importance of the training dataset.
