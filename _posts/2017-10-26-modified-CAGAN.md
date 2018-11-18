@@ -9,7 +9,7 @@ type: project
 ---
 
 ### [Description]
-In this project, we developed **generative adversarial networks (GAN) for garment swapping** which combined [CAGAN](https://arxiv.org/abs/1709.04695) with architecture introduced in [StackGAN++](https://arxiv.org/abs/1710.10916).The result model leverages multi-scale archtecture and outputs images with higher fidelity. We also explored several approaches to stablize training, such as adding an idendity cyclic loss and concatenating conditioning images to every intermediate layers.
+In this project, we developed **generative adversarial networks (GAN) for garment swapping** which combined [CAGAN](https://arxiv.org/abs/1709.04695) with architecture introduced in [StackGAN++](https://arxiv.org/abs/1710.10916), and [SENet](https://arxiv.org/abs/1709.01507). The improved model leverages multi-scale archtecture and generates images with higher fidelity. We also explored several approaches to stablize training, such as adding an idendity cyclic loss and concatenating conditioning images to every intermediate layers.
 For more details please refer to [this blog post](https://shaoanlu.wordpress.com/2017/10/26/reimplement-conditional-anology-gan-in-keras/).
 
 ---
