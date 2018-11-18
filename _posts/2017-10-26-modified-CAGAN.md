@@ -34,7 +34,10 @@ Our model generates a human image wearing cloth B (x_ij). See figures below.
 
 ![](https://shaoanlu.files.wordpress.com/2017/10/graphics-2.jpg?w=788&h=236)
 
+##### (Due to copyright concerns, input images are replaced by illustrations.)
 ---
 ### [More results]
 
 ![](https://shaoanlu.files.wordpress.com/2017/10/others.jpg?w=788)
+
+##### (Due to copyright concerns, input images are replaced by illustrations.)
