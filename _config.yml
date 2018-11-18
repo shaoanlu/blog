@@ -10,7 +10,7 @@ url: "https://shaoanlu.github.io" # the base hostname & protocol for your site, 
 # Author Settings
 author: Shao-An Lu # add your name
 author-img: avatar.jpg # add your photo
-about-author: A passionate developer interested in computer vision and control system design. Currently being located in Taipei (Taiwan) / Tokyo (Japan) and working as a deep learning software engineer. # add description
+about-author: A passionate developer interested in computer vision and control system design. # add description
 twitter: home # add your Twitter handle
 facebook:  # add your Facebook handle
 github: shaoanlu # add your Github handle
