@@ -13,13 +13,13 @@ type: project
 In this project, we used modern deep learning models, [SSD (Single Shot Multibox Detector)](https://arxiv.org/abs/1512.02325) and [Mask-RCNN](https://arxiv.org/abs/1703.06870), to detect vehicles in a video clip.
 
 Furthermore, we explored:
-  1) The importance of the training dataset.
+  1. The importance of the training dataset.
       - The quality of training data is crucial for deep learning models. 
-  2) The benefits of increasing input resolution.
+  2. The benefits of increasing input resolution.
       - Increasing input resolution has very positive impact on segmentation results and small object detection. (Also shown in  [Kaggle Carvana competition](https://www.kaggle.com/c/carvana-image-masking-challenge/discussion).)
-  3) How to smoothen bounding box over frames.
+  3. How to smoothen bounding box over frames.
       - Moving average method is introduced to smoothen bounding box coordinate.
-  4) Lane detection using traditional computer vision approach.
+  4. Lane detection using traditional computer vision approach.
       - We applied color space transformation, peak finding, and polynomial fitting to achieve lane detection.
     
 ### [Results]
