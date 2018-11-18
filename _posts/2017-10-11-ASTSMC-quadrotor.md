@@ -23,7 +23,7 @@ Both SM controllers out-perform PD controller under such uncertainty.
 
 ![](https://shaoanlu.files.wordpress.com/2017/10/vel_compare.png)
 
-Futhermore, we introduced an adaptive gain for [super-twisting sliding mode control (STSMC)](http://www.sciencedirect.com/science/article/pii/S2405896316300672), known as [adaptive super-twisting sliding model control (ASTSMC)](https://ieeexplore.ieee.org/document/7487462), to achieve faster convergence and eliminate notorious chattering effect as well.
+Futhermore, we introduced an adaptive gain for [super-twisting sliding mode control (STSMC)](http://www.sciencedirect.com/science/article/pii/S2405896316300672), known as [adaptive super-twisting sliding model control (ASTSMC)](https://ieeexplore.ieee.org/document/7487462), to achieve faster convergence and eliminate notorious chattering effect.
 The following figure illustrates the control input signals (1 thrust control and 3 moment controls) of helix trajectory tracking under external force disturbances, in which the adaptive method presents less high frequency components and thus better performance.
 
 ![](https://shaoanlu.files.wordpress.com/2017/10/compare_inpall_helix_uncert2.png)
