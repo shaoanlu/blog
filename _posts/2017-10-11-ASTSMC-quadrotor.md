@@ -39,4 +39,8 @@ The following figure illustrates the control input signals (1 thrust control and
 
 ![](https://shaoanlu.files.wordpress.com/2017/10/bandicam-2017-10-10-01-58-3.gif)
 
+**Helix trajectory (ill-tuned controller)**
+
+![](https://shaoanlu.files.wordpress.com/2017/10/ezgif-2-6a8dbc3e03.gif)
+
 ##### This project is related to a coursera course titled Aerial Robotics from University of Pennsylvania.
