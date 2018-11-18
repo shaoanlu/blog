@@ -13,6 +13,10 @@ In this project, we developed **generative adversarial networks (GAN) for garmen
 For more details please refer to [this blog post](https://shaoanlu.wordpress.com/2017/10/26/reimplement-conditional-anology-gan-in-keras/).
 
 ---
+### [Architecture]
+![](https://shaoanlu.files.wordpress.com/2017/10/ca-stack-gan1.jpg)
+
+---
 ### [Cherry-picked results]
 
 Given three input images: 
