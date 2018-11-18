@@ -19,7 +19,7 @@ Simulations show that adaptive super twisting sliding mode control achieves good
 
 We applied sliding mode (SM) control for a quadrotor, which improve its robustness against disturbances. 
 The following figure shows the velocity-vs-time plot of helix trajectory tracking under disturbances in mass and inertia. 
-Both SM controllers have out-perform PD controller under such uncertainty.
+Both SM controllers out-perform PD controller under such uncertainty.
 
 ![](https://shaoanlu.files.wordpress.com/2017/10/vel_compare.png)
 
