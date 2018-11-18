@@ -24,7 +24,7 @@ Furthermore, we also explored:
     
 ### [Results]
 
-**SSD with lane detection**
+**SSD (with lane detection)**
 
 ![](https://shaoanlu.files.wordpress.com/2017/05/ssd-lane-detection-min.gif)
 
