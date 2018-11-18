@@ -12,6 +12,10 @@ type: project
 
 In this project, we used modern deep learning models, [SSD (Single Shot Multibox Detector)](https://arxiv.org/abs/1512.02325) and [Mask-RCNN](https://arxiv.org/abs/1703.06870), to detect vehicles in a video clip.
 
+**SSD** is a single stage object detection algorithm that has VGG-16 as its backbone architecture. The model predicts several bounding boxes and classes on each anchor point within one forward pass. In our experiments, we use a SSD model pre-trained on VOC2007 dataset.
+
+**Mask-RCNN** is another powerful object detection algorithm, unlike SSD, it is a two stage method, requiring a region-proposal operation followed by a per-proposal classification operation. In addition, Mask-RCNN also generates segmentation mask for each detected object. In general, a two stage model is more accurate (has higher mAP) but is slower than single stage model, like SSD, as a trade-off ([source](https://arxiv.org/abs/1611.10012)). In our experiment, we use implementation from [matterport](https://github.com/matterport/Mask_RCNN), which has ResNet101 as backbone architecture and pre-trained weights on COCO dataset.
+
 Furthermore, we also explored:
   1. The importance of the training dataset.
       - The quality of training data is crucial for deep learning models. 
