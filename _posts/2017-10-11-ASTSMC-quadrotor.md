@@ -2,7 +2,7 @@
 layout: post
 title: Adaptive Super Twisting Sliding Mode Control for a Quadrotor
 date: 2017-10-11 00:00:00 +0300
-description: A non-linear control methods (sliding mode control) for quadrotors.
+description: A non-linear control methods (sliding mode control) for a quadrotor.
 img:  bandicam-2017-10-10-01-58-3.gif # Add image post (optional)
 tags: [Control] # add tag
 type: project
@@ -10,14 +10,14 @@ type: project
 
 ### [Description]
 Sliding mode control is a powerful tool to make system more robust. 
-This project gives preliminary results applying super twisting sliding mode control to quadrotors. 
+This project gives preliminary results applying super twisting sliding mode control to a quadrotor. 
 Comparisons between traditional linear PD control and several sliding mode control methods are provided. 
 Simulations show that adaptive super twisting sliding mode control achieves good tracking performance and reduces chattering effectively.
 
 ---
 ### [Simulaiton results]
 
-We applied sliding mode (SM) control for quadrotor, which improve its robustness against disturbances. 
+We applied sliding mode (SM) control for a quadrotor, which improve its robustness against disturbances. 
 The following figure shows the velocity-vs-time plot of helix trajectory tracking under disturbances in mass and inertia. 
 Both SM controllers have out-perform PD controller under such uncertainty.
 
