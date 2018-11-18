@@ -3,7 +3,7 @@ layout: post
 title: About
 date: 
 description:  # Add post description (optional)
-img:  None # Add image post (optional)
+img:  dot.jpg # Add image post (optional)
 tags: # add tag
 type: about
 permalink: /about/
