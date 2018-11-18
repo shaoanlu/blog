@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generative Adversarial Networks for Garment Swapping
-date: 2017-09-12 00:00:00 +0300
+date: 2017-10-26 00:00:00 +0300
 description: A modified CAGAN (conditional analogy GAN) to swap clothes.
 img: cagan_flow_chart2.jpg # Add image post (optional)
 tags: [Software, GAN] # add tag
